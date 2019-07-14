@@ -6,8 +6,7 @@ using UnityEngine.UI;
 public class EnemyAI : MonoBehaviour
 {
     public float Speed;
-    public int score;
-    public int highscore;
+   
    
 
     private Transform playerPos;
